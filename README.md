@@ -38,8 +38,8 @@ Este projeto tem como objetivo aplicar técnicas de manipulação e visualizaç�
 
 1. Clone o repositório ou baixe os arquivos:
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
-   cd seu-projeto
+   git clone https://github.com/VictorCCole/Visual-Analysis-of-International-Football-Results-1872-2025.git
+   cd Visual-Analysis-of-International-Football-Results-1872-2025
    ```
 2. Instale as dependências:
    ```bash
