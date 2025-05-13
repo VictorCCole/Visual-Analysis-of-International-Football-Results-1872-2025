@@ -1,3 +1,9 @@
+#Arquivos gerados
+gols_por_ano.html
+mapa_partidas.html
+partidas_por_decada.png
+top10_vitorias.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
